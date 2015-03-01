@@ -17,5 +17,3 @@ gem 'stringex', '~> 1.4.0'
 
 
 gem 'sinatra', '~> 1.4.2'
-
-ruby '2.1.2'
