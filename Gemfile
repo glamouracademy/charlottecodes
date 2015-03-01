@@ -13,6 +13,7 @@ gem 'compass', '~> 1.0.1'
 gem 'sass-globbing', '~> 1.0.0'
 gem 'rubypants', '~> 0.2.0'
 gem 'rb-fsevent', '~> 0.9'
+gem 'stringex'
 
 
 gem 'sinatra', '~> 1.4.2'
